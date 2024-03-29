@@ -1,0 +1,394 @@
+Great Jagras
+A gluttonous creature infamous for attacking monsters even bigger than itself when hungry. It balloons to enormous proportions after each gigantic meal. Beware a crushing defeat.
+Assigned Quest
+Investigation Quest
+Tempered Investigation Quest
+Time Limit
+Time Limit
+Time Limit
+35 time cards
+30 time cards
+30 time cards
+Scoutfly Level
+Scoutfly Level
+Scoutfly Level
+2-5
+3-6
+4-7
+Assigned Starting Point
+Investigation Starting Point
+Investigation Starting Point
+1
+2, 3, 4, 5
+2, 3, 4, 5
+
+1
+Assigned Starting Point
+If starting the adventure here, the group gains 1 potion.
+The shoreline near the Southwest Camp basks in the overhead sun, bright light reflecting from the shallow pools where Kestodon and Aptonoth water. Ahead you see the entrance to the Ancient Forest, formed by an arch of thick boughs, yawning open like a gaping maw… the sounds from the world behind you fade away to silence as you step under the rich green canopy, leaving an all-too-brief sense of calm, soon broken as the Scoutflies excitedly cluster around a huge footprint in the soil.
+
+Follow the Scoutflies!
+Discard 1 time card. Gain 1 track token.
+Progress to entry 21.
+
+2
+Investigation 1 Starting Point
+If starting the adventure here, the group gains 2 potions.
+A Great Jagras is on the loose; the last week has presented you with plentiful evidence – dozens of corpses, ripped apart in a frenzy, and left half eaten. This will be a hunt to test even the most experienced of trackers. You’ve heard of Jagras consuming hunters in a single bite. That won’t be you.
+Each hunter gains 1 Great Jagras Claw.
+
+Hit the trail running? 
+Gain 1 track token.
+Progress to entry 27. 
+or
+Stay and dig around the remains? 
+Discard 1 time card. Each hunter gains 1 Monster Bone medium. 
+Progress to entry 25.
+or
+Race to where your prey was last seen!
+Discard 5 time cards.
+Progress to entry 30.
+
+3
+Investigation 2 Starting Point
+If starting the adventure here, the group gains 1 potion.
+The handler standing by the tracks gives you an appraising glance. ‘I’d be very careful pursuing this beast,’ she says, idly scratching her chin. ‘It’s aggressive even by Jagras standards. But, if you insist on tracking it, take that route…’ she gestures to a dirt path leading into the forest. ‘It’s still hungry. Good luck!’ Her warning said, she vanishes into the forest.
+
+Follow her advice, and slowly advance. 
+Gain and reveal 1 track token, then choose whether to keep or discard it.
+Progress to entry 26.
+or
+With so many tracks, there’s no time to waste! 
+Gain 2 track tokens.
+Progress to entry 16.
+or
+Race to where your prey was last seen!
+Discard 5 time cards.
+Progress to entry 30.
+
+4
+Investigation 3 Starting Point
+If starting the adventure here, the group gains 2 potions.
+The beach stretches out before you, an exquisite expanse of untouched sand. The sea surges across it, leaving glistening foam to mark each wave. The forest rises behind you, an oppressive memory, but you may have to withdraw back into its ferny grip and leave this beautiful scene behind. Do you…
+
+Head down the beach.
+Discard 1 time card. Gain 1 track token. 
+Progress to entry 22.
+or
+Head back into the forest, towards a camp you can see between the trees. 
+Discard 1 time card.
+Progress to entry 9.
+or
+Race to where your prey was last seen!
+Discard 5 time cards.
+Progress to entry 30.
+
+5
+Investigation 4 Starting Point
+If starting the adventure here, the group gains 1 potion.
+The thunder of water threatens to distract your mind as you scan the nearby terrain. Great Jagras is on the hunt, and you’re on its trail. The river below surges into the forest, and the thick foliage of the trees obscures the path of the creature you seek.
+
+Follow what tracks you can.
+Discard 1 time card. Gain 2 track tokens.
+Progress to entry 13.
+or
+Investigate the area.
+Discard 2 time cards. Each Hunter gains 1 Piercing Claw and 1 Monster Bone Large.
+Progress to entry 24.
+or
+Head downriver to where Great Jagras was last seen.
+Discard 1 time cards.
+Progress to entry 14.
+or
+Race to where your prey was last seen!
+Discard 5 time cards.
+Progress to entry 30.
+
+6
+Just when you are about to lose heart you come across a pile of Great Jagras dung, left in the wake of your prey. It may be a grisly sight, but it fills your heart with hope as you head for a clearing ahead.
+
+No time to look back.
+Discard 1 time card. Gain 3 track tokens.
+Progress to entry 18.
+or
+Wait, listen… is that something behind us? 
+Progress to entry 30.
+
+7
+Flickering light paints eerie shadows across the walls, dancing pools of darkness that give mind to vicious predators. Your feet kick up dust and crunch through tiny bones, revealing sparkling metals and gems…
+
+Search the cave.
+Discard 1 time card.
+Each hunter rolls on the following table.
+1-2 Gain 1 Dragonite ore
+3-4 Gain 1 Fucium ore
+5-6 Gain 1 Ancient Bone
+Once each hunter has rolled.
+Progress to entry 11.
+or
+Turn back from this sinister place.
+Progress to entry 30.
+
+8
+Have you been this way before? Things look familiar. But then…the forest always looks familiar. You’re definitely lost. Eventually, you see a cave, something in the rocks outside glittering in the sun. You’re about to use your pick, when you see some tracks, half buried in the dust.
+Discard 1 time card.
+
+Mine the ore, then enter the cave.
+Discard 1 track token.
+Each hunter rolls on the following table.
+1-2 Gain 1 Dragonite ore
+3-4 Gain 1 Fucium ore
+5-6 Gain 1 Firecell ore
+Once each hunter has rolled.
+Progress to entry 7.
+or
+Follow the tracks you can see, and hope they’re fresh.
+Discard 1 time card. Gain 1 track token.
+Progress to entry 6.
+
+9
+A host of Palico gather at the edge of the camp as you draw near, mewing with interest. The creatures quickly resume their training drills, dodging and darting around the encampment as you take a few moments to rest. The hunt has to continue, but, for a few moments, being among the Palico is a cure for the perils of your work.
+Discard 2 time cards.
+
+Ask for their aid.
+Each hunter that does not have a Palico draws a Palico card. They may use it during the next hunting phase, then it is discarded.
+Progress to entry 29.
+or
+Ask for a guide.
+Gain and reveal 4 track tokens, then choose whether to keep or discard them.
+Progress to entry 19.
+
+10
+You’ve stalked through the forest, intricately and carefully made your way…to the same cave you’ve visited many times before. Still, perhaps, there might yet be some ore to be discovered.
+
+Roll a die.
+On a 1-4 all of the ore has been mined. Time to hurry on.
+Progress to entry 18.
+On a 5-6 there’s still some here. Discard 1 time card. Each hunter gains 1 Carbalite ore, and 1 Machalite ore.
+Progress to entry 7.
+
+11
+Something huge has clearly passed through this way, fresh markings cover the walls where it squeezed its huge bulk through the passageway. This warren is a maze; you can either rush on blindly, or stop to get your bearings.
+
+Keep moving!
+Discard 1 time card. Gain 2 track tokens.
+Progress to entry 30.
+or
+Advance carefully.
+Discard 1 time card. Reveal up to three tokens from the pool.
+Progress to entry 18.
+
+12
+Lightheaded and breathing heavily, you lean against the bark of a thick tree. Your arms ache, numbness creeping through them towards your shoulders. If only there were a way to relieve your parched throat…
+
+Force yourselves to go on.
+All hunters suffer 2 damage.
+Progress to entry 6.
+or
+(The hunters may only choose this option if they have at least 1 potion).
+Drink from your supplies.
+Discard 1 potion.
+Progress to entry 6.
+
+13
+‘What can I help you with?’ says the small man as you pass him. You should have recognised him as a trader sooner. He grins and gestures to the pack on his back. ‘I’ve got anything you might need, just here!’ You’re sure he does, but you know it’s going to cost you…
+
+Talk to the trader.
+Discard as a team any three resources, and add 1 Potion to the pool, or gain 1 track token.
+Discard 1 time card.
+Progress to entry 10.
+or
+Ignore the trader.
+Progress to entry 10.
+
+14
+‘Your prey is near… keep up the pace!’ intones a voice, from somewhere amidst the trees. You can’t locate the voice, but it isn’t wrong. Great Jagras is close, and you’re gaining on it. It won’t take much to bring it to heel… but who is speaking to you?
+Each hunter gains 1 Great Jagras Claw.
+
+Investigate the voice.
+Progress to entry 13.
+or
+(The players may only select this option if they have at least 1 Great Jagras Hide in their inventories).
+Ignore it and continue searching through the creature’s nest.
+Discard 2 time cards.
+Gain 1 Great Jagras Mane.
+Progress to entry 24.
+
+15
+The light has begun to dim, the sun setting behind the tall trees on the horizon. If you plan on maintaining the hunt, you’ll need to race ahead, or you can make camp for the evening and resume tomorrow.
+
+We can’t waste any time. Keep up the chase!
+Shuffle the Rushed Advance card into the time deck. 
+Progress to entry 30.
+or
+Strike camp for the night.
+Discard 2 time cards, all hunters heal to full.
+Progress to entry 19.
+
+16
+A roar fills the air, echoing across the forest. The beast is nearby. A discarded pack lies on the ground in the middle of the path, the strap torn. But is this a trap?
+
+Check the bag. Roll a die.
+On a 1-2 No time!
+On a 3-4 Take the bag before it is upon you! Add 1 potion to the pool.
+On a 5-6 Snatch up the ores from the ground! Each hunter gains 1 Carbalite ore, and 1 Machalite ore.
+Progress to entry 27.
+or
+Leave it and explore through a gap in the trees.
+Progress to entry 29.
+
+17
+Another dead Great Jagras. This one was brought down from above… some vast aerial predator ripped it to shreds. You scan the air carefully, desperate to ensure that you aren’t surprised as Great Jagras was, but the corpse is intact. You want that hide… and those scales.
+Each hunter gains 1 Great Jagras Hide.
+
+Carefully procure a scale?
+Discard 1 time card. Gain 1 Great Jagras Scale.
+Progress to entry 6.
+or
+The trail is growing cold!
+Progress to entry 28.
+
+18
+You emerge into brilliant sunlight, a fast-flowing river gurgling beside you. A trail of fresh footprints has been stamped into the mud, a path leading you forward.
+
+Follow the tracks.
+Discard 1 time card. Gain 1 track token.
+Progress to entry 28.
+or
+Stop to examine them more closely.
+Discard 2 time cards. Discard 1 track token.
+Progress to entry 15.
+
+19
+A new day dawns over the Ancient Forest, revealing fresh footprints through the morning dew. Your prey is close, and for a moment you wonder if you are the hunter or the hunted…
+
+If the group has four or less track tokens, gain 1 track token.
+Progress to entry 30.
+
+20
+For a moment, as you move through the jungle, you’re convinced the Great Jagras has caught you. Until the vast beast remains unmoving, even as you approach it. The creature is dead. Dead of old age, it looks like. Its eyes are pale with cataracts, its scales no longer vibrant. You’ve beaten the scavengers to the corpse, it’s untouched. It won’t last long.
+
+Scavenge the body.
+Discard 2 time cards. Each hunter gains 1 Great Jagras Scale. If the group has at least 1 Great Jagras Mane, each hunter also gains 1 additional Great Jagras Mane.
+Progress to entry 15.
+or
+Return to the trail, and head for a camp you can see between the trees. 
+Progress to entry 9.
+
+21
+You follow a well-used trail, scrapes and gouges in the dirt and along the trees betraying the monsters that frequently pass through this way. The gnawed bone of a monster, picked clean of meat, lays discarded to one side.
+Each hunter gains 1 Monster Bone medium.
+
+Hurry to follow the tracks along the trail?
+Gain 1 track token.
+Progress to entry 23.
+or
+Stop to search for other bones nearby?
+Discard 1 time card. Each hunter gains 1 Quality Bone and 1 Monster Bone Small.
+Progress to entry 23.
+
+22
+Two butchered Kestodon lie exposed beneath the unforgiving sun. Their flesh is already starting to turn. You’ve only got a few hours before anything useful on either corpse will be ruined by descending scavengers.
+
+Prioritise scavenging.
+Discard 1 time card. Each hunter gains 1 Piercing Claw, and 1 Monster Hardbone.
+Progress to entry 25.
+or
+Forget the corpse. Prioritise tracking.
+Discard 1 time card. Gain 1 track tokens.
+Progress to entry 20.
+
+23
+The trees ahead are far older and have considerably thicker foliage—it would be exhausting to hack through. Alternatively, a trail of ore along the path leads to a large cave opening in the distance. You might search there, in hope of finding your prey’s den…
+Discard 1 time card. Each hunter gains 1 Carbalite ore, and 1 Machalite ore.
+
+Cut your way through the forest.
+Discard 1 time card.
+Progress to entry 12.
+or
+Backtrack to the cave entrance.
+Discard 2 time cards.
+Progress to entry 7.
+
+24
+After an hour’s exploration of the area, you stumble across something strange. A series of unusual shapes wreathed in green. You manage to strip away the moss and vines grown around the strange stone idols, before you recognise what they are. Ancient funeral stones, long forgotten.
+Discard 1 time card.
+
+Swear to avenge the spirits.
+Discard 1 time card. Shuffle a Jagras Slayer card into time deck.
+Progress to entry 27.
+or
+Dip your head reverently… but hurry on.
+Shuffle an Unavenged card into time deck.
+Progress to entry 26.
+
+25
+The brush nearby contains another corpse. Another dead Aptonoth. But it might be worth examining further. Gleaning any details about Great Jagras might be invaluable later.
+
+Spend some time cleaning the bones off so you can take them with you?
+Discard 2 time cards. Each hunter gains 1 Monster Bone Large and 1 Great Jagras Scale.
+Progress to entry 27.
+or
+We’ve spent enough time here.
+Progress to entry 8.
+
+27
+Small Jagras erupt from the brush, surrounding and snapping at you with desperate hunger. You’re overwhelmed, and, for a moment, think you might be dragged under. Your training gets you through, driving the pack away and giving you a moment to breathe. But they’re about to attack again…
+
+Fight off the pack.
+Discard 2 time cards. Each hunter suffers 1 damage, then gains 1 Sharp Claw.
+Progress to entry 12.
+or
+Flee through the undergrowth.
+Discard 1 time card.
+Progress to entry 29.
+
+26
+A vast assemblage of bones, desiccated flesh, and shattered teeth greets you as you step out of the ring of trees. This is where the titans come to die; a monster graveyard. Nearby, there’s a fresh carcass. From the marks on its throat, it was a victim of Great Jagras. Another one. You’re on its trail though, and from what you know of the beast’s path, there’s a shortcut that should bring you out right on top of it…
+
+Take the time to strip the carcass.
+Discard 2 time cards. Each hunter gains 1 Monster Keenbone.
+Progress to entry 29.
+or
+Follow the shortcut.
+Discard 1 time card. Gain 2 track tokens.
+Progress to entry 28.
+or
+(The players may only choose this option if they have at least 1 Great Jagras hide in their inventories).
+What’s that shaggy pile over there?
+Progress to entry 17.
+
+28
+A scream cuts through the air. Up ahead, a bloodied satchel lays unattended on the ground—it seems that something has caught up with one of the field researchers. Surely you can’t leave them to their fate, can you?
+
+No, we can’t. Abandon the hunt to save them! 
+Discard 1 track token and shuffle a Researcher’s Favour card into the time deck.
+Progress to entry 15.
+or
+Yes, we can. Search the satchel, and head for a safer location.
+Discard 1 time card. Each hunter gains 1 Coral Crystal, then add 1 Potion to the pool.
+Progress to entry 19.
+
+29
+The carcass you’ve stumbled upon is impossibly old. Older than mankind, you’re sure. A creature long forgotten but still, even in death, magnificent. Your breath catches in your throat as you imagine the battles this creature must have fought.
+
+Reverently take a bone before leaving. 
+Discard 1 time card. Each hunter gains 1 Ancient Bone. 
+Progress to entry 6.
+or
+Leave this tranquil scene undisturbed.
+Discard 1 time card. Shuffle an Ancient Guardian card into time deck.
+Progress to entry 18.
+
+30
+A deafening roar is your only warning, as you suddenly find yourself face to face with your prey! Now is the time to fight this terrifying adversary.
+Reveal your track tokens, check the Scoutfly level, and begin the hunting phase.
+
+Great Jagras Scoutfly Level
+1. If you finish a Great Jagras adventure with equal to or fewer tracks than the minimum Scoutfly level, add Forward Roll to its behaviour deck.
+2. If you finish a Great Jagras adventure with more tracks than the minimum but fewer than the maximum Scoutfly level, add Jagras Spit to its behaviour deck.
+3. If you finish a Great Jagras adventure with equal to or more tracks than the maximum Scoutfly level, add Retreat Swing to its behaviour deck.
+
+Assigned Quest Scoutfly Level: 2-5
+Investigation Quest Scoutfly Level: 3-6
+Tempered Investigation Quest Scoutfly Level: 4-7
