@@ -1,0 +1,65 @@
+Helm
+1
+Alloy Helm
+Bone Helm
+2
+Anja Helm
+Barroth Helm
+Jagras Helm
+Jyura Helm
+Kadachi Helm
+Kulu Headpiece
+Pukei Hood
+3
+Diablos Helm
+Diablos Nero Helm
+Rathalos Helm
+Rath Soul Helm
+4
+Kushala Glare
+Nergigante Helm
+Kaiser Crown
+
+Mail
+1
+Alloy Mail
+Bone Mail
+2
+Anja Mail
+Barroth Mail
+Jagras Mail
+Jyura Mail
+Kadachi Mail
+Kulu Mail
+Pukei Mail
+3
+Diablos Mail
+Diablos Nero Mail
+Rathalos Mail
+Rath Soul Mail
+4
+Kushala Cista
+Nergigante Mail
+Kaiser Mail
+
+Greaves
+1
+Alloy Greaves
+Bone Greaves
+2
+Anja Greaves
+Barroth Greaves
+Jagras Greaves
+Jyura Greaves
+Kadachi Greaves
+Kulu Greaves
+Pukei Greaves
+3
+Diablos Greaves
+Diablos Nero Greaves
+Rathalos Greaves
+Rath Soul Greaves
+4
+Kushala Crus
+Nergigante Greaves
+Kaiser Greaves

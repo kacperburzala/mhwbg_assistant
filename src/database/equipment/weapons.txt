@@ -1,0 +1,347 @@
+Bow
+0
+Hunter's Bow
+1
+Hunter's Stoutbow
+Steel Bow
+2
+Alloy Bow
+Blazing Bow
+Blooming Arch
+Diablos Bow
+Hunter's Proudbow
+Kulu Arrow
+Pulsar Bow
+3
+Anja Arch
+Archer's Dance
+Datura String
+Diablos Coilbender
+Flying Kadachi Strike
+Icesteel Bow
+Nergal Whisper
+4
+Daora's Sagittarii
+Doom's Shaft
+
+Charge Blade
+0
+Bone Strongarm
+1
+Hard Bone Strongarm
+Elite Commission Axe
+2
+Chrome Guardian
+Diablos Wall
+Jagras Strongarm
+Mighty Strongarm
+Mudslide Blade
+Pulsar Strongarm
+3
+Daora's Casca
+Diablos Tyrannis
+Jagras Escudo
+Jyura Depth
+Kadachi Kaina
+Nergal Lacerator
+4
+Daora's Thwartoise
+Devistation's Thorns
+
+Dual Blades
+0
+Bone Hatchets
+1
+Dual Slicers
+Wild Hatchets
+2
+Blazing Hatchets
+Chrome Slicers
+Diablos Hatchets
+Madness Pangas
+Pulsar Hatchets
+Rending Beaks
+Strong Hatchets
+3
+Anja Cyclone
+Arcanaria
+Diablos Clubs
+Jyura Hatchets
+Kadachi Claws
+Nergal Gouge
+Twin Nails
+4
+Decimation Claws
+Fire and Ice
+
+Great Sword
+0
+Bone Blade
+1
+Bone Slasher
+Buster Blade
+2
+Blooming Blade
+Carapace Buster
+Chrome Razor
+Flame Blade
+Giant Jawblade
+Jagras Blade
+3
+Barroth Shredder
+Datura Blaze
+Icesteel Edge
+Jagras Hacker
+Nergal Judicator
+Red Wing
+4
+Daora's Decimator
+Pergation's Atrocity
+
+Gunlance
+0
+Bone Gunlance
+1
+Bone Cannon
+Steel Gunlance
+2
+Carapace Cannon
+Chrome Gunlance
+Great Bone Gunlance
+Jagras Gunlance
+Madness Gunlance
+Rath Gunlance
+3
+Barroth Blaster
+Glutton Gunlance
+Icesteel Gunlance
+Jyura Buster
+Nergal Ram
+Red Rook
+4
+Daora's Brigia
+Eradication Flame
+
+Hammer
+0
+Bone Bludgeon
+1
+Fossil Bludgeon
+Iron Demon
+2
+Blazing Hammer
+Blooming Hammer
+Carapace Sledge
+Diablos Sledge
+Grand Rock
+Iron Arch Demon
+Kulu Beak
+3
+Anja Striker
+Barroth Breaker
+Buon Fiore
+Crushing Beak
+Diablos Shatterer
+Icesteel Hammer
+Nergal Crusher
+4
+Daora's Colossus
+Obliteration's Footfall
+
+Heavy Bowgun
+0
+Bone Shooter
+1
+Heavy Shooter
+Steel Assault
+2
+Chrome Assault
+Blooming Shooter
+Diablos Shooter
+Jagras Assault
+Power Shooter
+Pulsar Shooter
+3
+Datura Blaster
+Dual Threat
+Jagras Cannon
+Kadachi Lion
+Nergal Roar
+Teostra's Artillery
+4
+Destruction's Fusillade
+Teostra's Flames
+
+Hunting Horn
+0
+Bone Horn
+1
+Great Bagpipe
+Hard Bone
+2
+Horn Aqua Bagpipe
+Blazing Horn
+Blooming Horn
+Fortissimo
+Heavy Bone Horn
+Thunder Gaida
+3
+Anja Barone
+Datura Horn
+Lightning Drum
+Water Tamtam
+Nergal Groove
+Teostra's Tiple
+4
+Desolation's Overture
+Teostra's Orphée
+
+Insect Glaive
+0
+Bone Rod
+1
+Hard Bone Rod
+Steel Blade
+2
+Aerial Magus
+Blooming Glaive
+Chrome Blade
+Diablos Rod
+Flame Glaive
+Flammenkafer
+Kulu Blade
+3
+Daora's Entom
+Datura Blade
+Gnashing Flammenkafer
+Nergal Reaper
+Rathmaul
+Tyrannis Glaive
+Ya-Ku Wrath
+4
+Catastrophe's Light
+Daora's Tethidine
+
+Lance
+0
+Bone Lance
+1
+Hard Bone Lance
+Steel Lance
+2
+Aqua Horn
+Carapace Lance
+Chrome Lance
+Flame Lance
+Heavy Bone Lance
+Kulu Duda
+Thunder Lance
+3
+Barroth Stinger
+Dancing Duval
+Icesteel Spear
+Lightning Spire
+Nergal Impaler
+Red Tail
+Water Spike
+4
+Daora's Fang
+Perdition's Hand
+
+Light Bowgun
+0
+Hunter's Rifle
+1
+Hight Chain
+Blitz Power Rifle
+2
+Carapace Rifle
+Cross Blitz
+Flame Blitz
+Jagras Blitz
+Madness Rifle
+Sniper Shot
+3
+Barroth Shot
+Icesteel Wasp
+Jagras Fire
+Jyura Bullet
+Nergal Spitter
+Rathbuster
+4
+Cataclysm's Trigger
+Daora's Hornet
+
+Long Sword
+0
+Bone Shotel
+1
+Hard Bone Shotel
+Iron Grace
+2
+Blazing Shotel
+Bone Reaper
+First Dance
+Iron Gospel
+Jyura Shotel
+Pulsar Shotel
+Wyvern Blade "Fall"
+3
+Anja Scimitar
+Dipterus
+Imperial Saber
+Kadachi Fang
+Last Dance
+Nergal Reaver
+Wyvern Blade "Blood"
+4
+Extermination's Edge
+Imperial Shimmer
+
+Switch Axe
+0
+Bone Axe
+1
+Bone Smasher
+Improved Steel Axe
+2
+Carapace Axe
+Diablos Axe
+Flammenbeil
+Perfected Alloy Axe
+Power Smasher
+Rathalos Axe
+3
+Axe Semper Tyrannis
+Barroth Grinder
+Gnashing Flammenbeil
+Nergal Gash
+Rathbringer Axe
+Teostra's Arx
+4
+Dying Light
+Teostra's Castle
+
+Sword & Shield
+0
+Bone Kukri
+1
+Chief Kukri
+Steel Knife
+2
+Blooming Knife
+Carapace Edge
+Chrome Slicer
+Flame Knife
+Grand Barong
+Jagras Edge
+3
+Barroth Club
+Datura Blossom
+Heat Edge
+Jagras Garrotte
+Nergal Jack
+Teostra's Spada
+4
+Eradication Vanguard
+Teostra's Emblem
